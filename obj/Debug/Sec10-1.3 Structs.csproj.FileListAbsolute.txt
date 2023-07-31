@@ -1,0 +1,7 @@
+D:\Assisted projects\Sec10-1.3 Structs\Sec10-1.3 Structs\bin\Debug\Sec10-1.3 Structs.exe.config
+D:\Assisted projects\Sec10-1.3 Structs\Sec10-1.3 Structs\bin\Debug\Sec10-1.3 Structs.exe
+D:\Assisted projects\Sec10-1.3 Structs\Sec10-1.3 Structs\bin\Debug\Sec10-1.3 Structs.pdb
+D:\Assisted projects\Sec10-1.3 Structs\Sec10-1.3 Structs\obj\Debug\Sec10-1.3 Structs.csproj.AssemblyReference.cache
+D:\Assisted projects\Sec10-1.3 Structs\Sec10-1.3 Structs\obj\Debug\Sec10-1.3 Structs.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Sec10-1.3 Structs\Sec10-1.3 Structs\obj\Debug\Sec10-1.3 Structs.exe
+D:\Assisted projects\Sec10-1.3 Structs\Sec10-1.3 Structs\obj\Debug\Sec10-1.3 Structs.pdb
